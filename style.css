@@ -1,0 +1,30 @@
+
+    body {
+       height: 575px; /* Add 100px to height each time new search field is added */
+	   width: 245px;
+	   background-color:#3399FF;
+	   border:5px solid blue;
+	   border-radius: 10px;
+    }
+	h1
+{
+color:orange;
+text-align:center;
+font-size:18px;
+font-family:Arial;
+}
+
+			#text {
+				border-radius: 7.5px;
+				padding: 2.5px;
+				margin-bottom: 10px;
+				
+			}
+	#button {
+	padding: 2.5px;
+	border-radius: 7.5px;
+	border-width: 3.5px;
+	background-color: #CCC;
+	border-style:outset;
+border-color: #009;
+	}
